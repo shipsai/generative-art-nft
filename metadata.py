@@ -14,12 +14,12 @@ warnings.simplefilter(action='ignore', category=FutureWarning)
 
 
 # Base metadata. MUST BE EDITED.
-BASE_IMAGE_URL = "ipfs://<-- Your CID Code-->"
-BASE_NAME = ""
+BASE_IMAGE_URL = "ipfs:QmNjazESpZuenwhTQ4d1T99SHwjXTpnGJMAxEgkscGsrFk"
+BASE_NAME = "Meta Ship #"
 
 BASE_JSON = {
-    "name": BASE_NAME,
-    "description": "",
+    "ships ai": BASE_NAME,
+    "hahahahhahaha": "",
     "image": BASE_IMAGE_URL,
     "attributes": [],
 }
